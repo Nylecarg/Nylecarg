@@ -1,4 +1,4 @@
 - 👋 Ello, I’m @Nylecarg
 - 👀 I’m interested in coding, art and microbiology
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently revising python 
 - 📫 How to reach me (you can't)
