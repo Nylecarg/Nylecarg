@@ -1,6 +1,6 @@
-|✨ Ello, I’m @Nylecarg
-|‼️ I’m interested in coding, art and microbiology
-|🌱 Currently building **Xuemi**, an educational app designed to help secondary school students improve their Chinese language skills in a more convenient manner. Available on:
+-|✨ Ello, I’m @Nylecarg
+-|‼️ I’m interested in coding, art and microbiology
+-|🌱 Currently building **Xuemi**, an educational app designed to help secondary school students improve their Chinese language skills in a more convenient manner. Available on:
 
 <p align="center">
   <a href="https://apps.apple.com/sg/app/xuemi/id6608983220">
